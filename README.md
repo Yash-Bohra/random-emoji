@@ -1,2 +1,2 @@
 # random-emoji
-generating random emojis using there unicodes
+generating random emojis by using their unicodes
